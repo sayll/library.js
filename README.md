@@ -13,6 +13,7 @@
 ### 滚轮类
 - 数字滚动 [odometer](https://github.com/HubSpot/odometer)
 - 全屏滚动 [fullpage](https://github.com/alvarotrigo/fullpage.js)
+- 滚动条 [better-scroll](https://github.com/ustbhuangyi/better-scroll)
 
 ## 特殊用途
 
