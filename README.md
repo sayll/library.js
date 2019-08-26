@@ -5,6 +5,11 @@
 ### 代码质量
 [Eslint](http://eslint.cn/docs/rules/)
 
+## 动画
+
+### 滚轮类
+- [odometer](https://github.com/HubSpot/odometer)
+
 ## 特殊用途
 
 ### 演示类库
