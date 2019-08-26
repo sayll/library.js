@@ -8,7 +8,8 @@
 ## 动画
 
 ### 滚轮类
-- [odometer](https://github.com/HubSpot/odometer)
+- 数字滚动 [odometer](https://github.com/HubSpot/odometer)
+- 全屏滚动 [fullpage](https://github.com/alvarotrigo/fullpage.js)
 
 ## 特殊用途
 
