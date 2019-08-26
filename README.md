@@ -7,6 +7,9 @@
 
 ## 动画
 
+### CSS动画
+- [magic](https://github.com/miniMAC/magic)
+
 ### 滚轮类
 - 数字滚动 [odometer](https://github.com/HubSpot/odometer)
 - 全屏滚动 [fullpage](https://github.com/alvarotrigo/fullpage.js)
