@@ -16,5 +16,8 @@
 
 ## 特殊用途
 
+### 截屏工具
+- [html2canvas](https://github.com/niklasvh/html2canvas/)
+
 ### 演示类库
 [reveal.js](/librarys/Reveal.md)
