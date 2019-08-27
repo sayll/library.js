@@ -8,7 +8,10 @@
 ## 动画
 
 ### CSS动画
+
 - [magic](https://github.com/miniMAC/magic)
+- [animate](https://github.com/daneden/animate.css)
+- [loaders](https://github.com/ConnorAtherton/loaders.css)
 
 ### 滚轮类
 - 数字滚动 [odometer](https://github.com/HubSpot/odometer)
