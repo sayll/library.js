@@ -6,10 +6,11 @@
 
 ## 简介
 
-一个使用HTML轻松创建漂亮的演示文稿库。 [Check out the live demo](http://lab.hakim.se/reveal-js/).<br/>
-reveal.js具有广泛的功能，包括嵌套幻灯片，Markdown内容，PDF导出，演讲者备注,[JavaScript API](#api)和[强大的配置](#config)。
+一个使用HTML轻松创建漂亮的演示文稿库。 [Check out the live demo](http://lab.hakim.se/reveal-js/).  
+ reveal.js具有广泛的功能，包括嵌套幻灯片，Markdown内容，PDF导出，演讲者备注,[JavaScript API](reveal.md#api)和[强大的配置](reveal.md#config)。
 
 ## Config
+
 ```javascript
 Reveal.initialize({
   // 控制台
@@ -134,3 +135,4 @@ Reveal.isOverview();
 Reveal.isPaused();
 Reveal.isAutoSliding();
 ```
+
